@@ -5,6 +5,9 @@
     <artifactId>screenmatch</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
+    <build>
+
+    </build>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>17</maven.compiler.source>

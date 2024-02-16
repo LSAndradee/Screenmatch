@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/landrade/Desktop/GITHUB/Java/screenmatch/src/main/java;C:/Users/landrade/Desktop/GITHUB/Java/screenmatch/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/landrade/Desktop/GITHUB/Java/screenmatch/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'screenmatch 1.0 API'
+-use
+-version
+-windowtitle
+'screenmatch 1.0 API'
+br.com.alura.screenmatch.calculos
+br.com.alura.screenmatch.modelos
+br.com.alura.screenmatch.principal
+C:\Users\landrade\Desktop\GITHUB\Java\screenmatch\src\main\java = 1708029480549
+C:\Users\landrade\Desktop\GITHUB\Java\screenmatch\target\generated-sources\annotations = 1708010825481
+C:\Users\landrade\Desktop\GITHUB\Java\screenmatch\target\apidocs\allclasses-index.html = 1708030628697
+C:\Users\landrade\Desktop\GITHUB\Java\screenmatch\target\apidocs\allpackages-index.html = 1708030628706
+C:\Users\landrade\Desktop\GITHUB\Java\screenmatch\target\apidocs\element-list = 1708030628481
+C:\Users\landrade\Desktop\GITHUB\Java\screenmatch\target\apidocs\help-doc.html = 1708030628746
+C:\Users\landrade\Desktop\GITHUB\Java\screenmatch\target\apidocs\index-all.html = 1708030628729
+C:\Users\landrade\Desktop\GITHUB\Java\screenmatch\target\apidocs\index.html = 1708030628683
+C:\Users\landrade\Desktop\GITHUB\Java\screenmatch\target\apidocs\jquery-ui.overrides.css = 1708030628776
+C:\Users\landrade\Desktop\GITHUB\Java\screenmatch\target\apidocs\member-search-index.js = 1708030628715
+C:\Users\landrade\Desktop\GITHUB\Java\screenmatch\target\apidocs\module-search-index.js = 1708030628713
+C:\Users\landrade\Desktop\GITHUB\Java\screenmatch\target\apidocs\overview-summary.html = 1708030628737
+C:\Users\landrade\Desktop\GITHUB\Java\screenmatch\target\apidocs\overview-tree.html = 1708030628674
+C:\Users\landrade\Desktop\GITHUB\Java\screenmatch\target\apidocs\package-search-index.js = 1708030628713
+C:\Users\landrade\Desktop\GITHUB\Java\screenmatch\target\apidocs\script.js = 1708030628757
+C:\Users\landrade\Desktop\GITHUB\Java\screenmatch\target\apidocs\search.js = 1708030628764
+C:\Users\landrade\Desktop\GITHUB\Java\screenmatch\target\apidocs\stylesheet.css = 1708030628755
+C:\Users\landrade\Desktop\GITHUB\Java\screenmatch\target\apidocs\tag-search-index.js = 1708030628717
+C:\Users\landrade\Desktop\GITHUB\Java\screenmatch\target\apidocs\type-search-index.js = 1708030628714
