@@ -3,6 +3,7 @@ package br.com.alura.screenmatch.principal;
 import br.com.alura.screenmatch.modelos.Filme;
 import br.com.alura.screenmatch.modelos.Serie;
 import br.com.alura.screenmatch.modelos.Titulo;
+import com.google.gson.Gson;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -46,5 +47,6 @@ public class PrincipalComListas {
         System.out.println("Ordenando por ano");
         System.out.println(lista);
         
+
     }
 }
